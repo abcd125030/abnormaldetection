@@ -1,0 +1,13 @@
+{
+    "result": {
+        "anomalous_index": [
+            18,
+            29
+        ],
+        "anomalous_values": [
+            2.9,
+            40.0
+        ]
+    },
+    "status": 200
+}
